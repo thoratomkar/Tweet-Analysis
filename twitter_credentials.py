@@ -14,10 +14,10 @@ twitter_cred = dict()
 # Enter your own consumer_key, consumer_secret, access_key and access_secret
 # Replacing the stars ("********")
 
-twitter_cred['CONSUMER_KEY'] = '8InsjGGJGkPl1Kt2jrEoMm3BD'
-twitter_cred['CONSUMER_SECRET'] = 'SDVWDeItox0YLcnaa4TKKrqftDIWUxN6cvjqPtoSdk9QMUqS1C'
-twitter_cred['ACCESS_KEY'] = '951883783-dI6kw9ZLG1Y5QUnydeoaTTmX6fhZ4S45RRYOWr93'
-twitter_cred['ACCESS_SECRET'] = 'R7IozqGOUOU9CxtGKz277J15Cb0xP5LCFnvLkEq2k85eF'
+twitter_cred['CONSUMER_KEY'] = '#########################'
+twitter_cred['CONSUMER_SECRET'] = '####################'
+twitter_cred['ACCESS_KEY'] = '######'
+twitter_cred['ACCESS_SECRET'] = '######'
 
 # Save the information to a json so that it can be reused in code without exposing
 # the secret info to public
